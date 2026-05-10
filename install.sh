@@ -1554,3 +1554,4 @@ echo "Access URL: http://$(curl -s ifconfig.me):$PORT"
 echo ""
 echo "Type 'chat' in terminal to manage your server."
 echo "========================================"
+chat
